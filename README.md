@@ -67,7 +67,7 @@
 
 ## Deploy On Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Koch-Dev/Dooker)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/legendaditya03/ArchMusic)
 
 
 ## 🏷 Support
